@@ -1,0 +1,1235 @@
+[
+    {
+        "outputFile": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 69,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 67,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 13,
+                    "endColumn": 11,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 66,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endLine": 20,
+                    "endColumn": 11,
+                    "endOffset": 943
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 948,
+                    "endColumn": 66,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 64,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 64,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endLine": 27,
+                    "endColumn": 11,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 65,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 65,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endColumn": 66,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1484,
+                    "endLine": 35,
+                    "endColumn": 11,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 68,
+                    "endOffset": 1758
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1763,
+                    "endColumn": 65,
+                    "endOffset": 1824
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1829,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1954,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endColumn": 66,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endLine": 47,
+                    "endColumn": 11,
+                    "endOffset": 2268
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2273,
+                    "endLine": 50,
+                    "endColumn": 11,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2400,
+                    "endLine": 53,
+                    "endColumn": 11,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endLine": 56,
+                    "endColumn": 11,
+                    "endOffset": 2647
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2652,
+                    "endColumn": 64,
+                    "endOffset": 2712
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2717,
+                    "endLine": 60,
+                    "endColumn": 11,
+                    "endOffset": 2838
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2843,
+                    "endLine": 63,
+                    "endColumn": 11,
+                    "endOffset": 2961
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2966,
+                    "endColumn": 64,
+                    "endOffset": 3026
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3031,
+                    "endLine": 69,
+                    "endColumn": 11,
+                    "endOffset": 3234
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3239,
+                    "endColumn": 66,
+                    "endOffset": 3301
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3306,
+                    "endLine": 74,
+                    "endColumn": 11,
+                    "endOffset": 3440
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3445,
+                    "endColumn": 64,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endColumn": 64,
+                    "endOffset": 3570
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3575,
+                    "endColumn": 61,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 61,
+                    "endOffset": 3694
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3699,
+                    "endColumn": 61,
+                    "endOffset": 3756
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3761,
+                    "endColumn": 58,
+                    "endOffset": 3815
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3820,
+                    "endColumn": 59,
+                    "endOffset": 3875
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3880,
+                    "endColumn": 60,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 60,
+                    "endOffset": 3997
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4002,
+                    "endColumn": 58,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endLine": 90,
+                    "endColumn": 11,
+                    "endOffset": 4265
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\com.android.support.constraint\\constraint-layout\\1.0.2\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4270,
+                    "endColumn": 44,
+                    "endOffset": 4310
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4315,
+                    "endColumn": 50,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 49,
+                    "endOffset": 4411
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4416,
+                    "endColumn": 55,
+                    "endOffset": 4467
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4472,
+                    "endColumn": 44,
+                    "endOffset": 4512
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4517,
+                    "endColumn": 36,
+                    "endOffset": 4549
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4554,
+                    "endColumn": 38,
+                    "endOffset": 4588
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4593,
+                    "endColumn": 59,
+                    "endOffset": 4648
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4653,
+                    "endColumn": 54,
+                    "endOffset": 4703
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4708,
+                    "endColumn": 54,
+                    "endOffset": 4758
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4763,
+                    "endColumn": 60,
+                    "endOffset": 4819
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4824,
+                    "endColumn": 60,
+                    "endOffset": 4880
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4885,
+                    "endColumn": 51,
+                    "endOffset": 4932
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4937,
+                    "endColumn": 45,
+                    "endOffset": 4978
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4983,
+                    "endColumn": 52,
+                    "endOffset": 5031
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5036,
+                    "endColumn": 38,
+                    "endOffset": 5070
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 5075,
+                    "endColumn": 50,
+                    "endOffset": 5121
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5126,
+                    "endColumn": 44,
+                    "endOffset": 5166
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 5171,
+                    "endColumn": 43,
+                    "endOffset": 5210
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 5215,
+                    "endColumn": 47,
+                    "endOffset": 5258
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 5263,
+                    "endColumn": 43,
+                    "endOffset": 5302
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5307,
+                    "endColumn": 44,
+                    "endOffset": 5347
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 5352,
+                    "endColumn": 43,
+                    "endOffset": 5391
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5396,
+                    "endColumn": 49,
+                    "endOffset": 5441
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5446,
+                    "endColumn": 44,
+                    "endOffset": 5486
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5491,
+                    "endColumn": 40,
+                    "endOffset": 5527
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5532,
+                    "endColumn": 52,
+                    "endOffset": 5580
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5585,
+                    "endColumn": 44,
+                    "endOffset": 5625
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5630,
+                    "endColumn": 36,
+                    "endOffset": 5662
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5667,
+                    "endColumn": 40,
+                    "endOffset": 5703
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 11771,
+                    "endColumn": 47,
+                    "endOffset": 11814
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 11819,
+                    "endColumn": 43,
+                    "endOffset": 11858
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 11863,
+                    "endColumn": 56,
+                    "endOffset": 11915
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 11920,
+                    "endColumn": 62,
+                    "endOffset": 11978
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 11983,
+                    "endColumn": 41,
+                    "endOffset": 12020
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 12025,
+                    "endColumn": 48,
+                    "endOffset": 12069
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 12074,
+                    "endColumn": 42,
+                    "endOffset": 12112
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 12117,
+                    "endColumn": 42,
+                    "endOffset": 12155
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 12160,
+                    "endColumn": 50,
+                    "endOffset": 12206
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 12211,
+                    "endColumn": 57,
+                    "endOffset": 12264
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 12269,
+                    "endLine": 138,
+                    "endColumn": 12,
+                    "endOffset": 12363
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 12368,
+                    "endLine": 141,
+                    "endColumn": 12,
+                    "endOffset": 12446
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 12451,
+                    "endLine": 149,
+                    "endColumn": 12,
+                    "endOffset": 12872
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 12877,
+                    "endLine": 156,
+                    "endColumn": 12,
+                    "endOffset": 13250
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 13255,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 13650
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 13655,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 14114
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 14119,
+                    "endLine": 181,
+                    "endColumn": 12,
+                    "endOffset": 14501
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 14506,
+                    "endLine": 188,
+                    "endColumn": 12,
+                    "endOffset": 14860
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14865,
+                    "endLine": 192,
+                    "endColumn": 8,
+                    "endOffset": 15019
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 15024,
+                    "endLine": 196,
+                    "endColumn": 12,
+                    "endOffset": 15203
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 15208,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 15365
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15370,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 15606
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15611,
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 16186
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 16191,
+                    "endLine": 217,
+                    "endColumn": 12,
+                    "endOffset": 16431
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16436,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 16670
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

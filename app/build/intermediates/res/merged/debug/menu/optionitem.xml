@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/set_device_name"
+           android:title="Set device name"
+           android:orderInCategory="1"/>
+    <item android:id="@+id/temperature_monitor"
+           android:title="Temperature monitor"
+           android:orderInCategory="2"/>
+    <item android:id="@+id/led_work_time"
+          android:title="LED work time"
+          android:orderInCategory="3"/>
+    <item android:id="@+id/made_date"
+        android:title="Manufacture date"
+        android:orderInCategory="4"/>
+    <item android:id="@+id/serial_number"
+        android:title="Serial number"
+        android:orderInCategory="5"/>
+    <item android:id="@+id/fireware_version"
+        android:title="Fireware version"
+        android:orderInCategory="6"/>
+</menu>

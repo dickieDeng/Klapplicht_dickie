@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_set_device_name.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\layout\\alert_set_device_name.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_san.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\layout\\activity_device_san.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_process.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\layout\\audio_process.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    }
+]

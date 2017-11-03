@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\color\\dsb_ripple_color_list.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\color\\dsb_ripple_color_list.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\color\\dsb_progress_color_list.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\color\\dsb_progress_color_list.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\color\\dsb_track_color_list.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\color\\dsb_track_color_list.xml"
+    }
+]

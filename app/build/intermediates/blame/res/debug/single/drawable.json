@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttoon_down_selector.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\buttoon_down_selector.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shape.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_blue_long.png",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\button_blue_long.png"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_left_selector.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\button_left_selector.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirction_down_press.png",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\dirction_down_press.png"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirction_down.png",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\dirction_down.png"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirction_left.png",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\dirction_left.png"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirction_right.png",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\dirction_right.png"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirction_left_press.png",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\dirction_left_press.png"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_up_selector.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\button_up_selector.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_bg_shape.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\img_bg_shape.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_right_selector.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\button_right_selector.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirction_up_press.png",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\dirction_up_press.png"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirction_up.png",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\dirction_up.png"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirction_right_press.png",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\dirction_right_press.png"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_setting.png",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\drawable\\button_setting.png"
+    }
+]

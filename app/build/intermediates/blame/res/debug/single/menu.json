@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_ble_scan.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\menu\\menu_ble_scan.xml"
+    },
+    {
+        "merged": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\optionitem.xml",
+        "source": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\menu\\optionitem.xml"
+    }
+]

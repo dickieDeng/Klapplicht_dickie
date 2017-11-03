@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\exploded-aar\org.adw.library\discrete-seekbar\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7be042dd2aa8157a2b63934902f472952d2ea1fe">
+        <dex dex="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\pre-dexed\debug\org.adw.library-discrete-seekbar-1.0.1_ecf6e88ee5396d9a8f50024b9c3261f1e9a64a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1_e7266b7805be634ac5a8f732bc3a149f30991902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_1952969fdf4e4bb138a3ced3be3bef19139f7ed5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\eng_deng\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1_1b20ddfa295397442effe6b8dd7370de2fb2d203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.1.1_86da302bed235a07b3f4fd19911fe96530c5a56a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\libs\lite-ble-0.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fed56c6ca8a579300f57dea86e68f55178b6707">
+        <dex dex="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\pre-dexed\debug\lite-ble-0.9.2_1dc3b939540d71b643fcad6e2636fd903ae55aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\eng_deng\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\sourcecode\as_workspaces\bluetooth_study\sample\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_70527bacc8e345caacc18fcb945a1c0db969e226.jar" />
+    </item>
+
+</items>
