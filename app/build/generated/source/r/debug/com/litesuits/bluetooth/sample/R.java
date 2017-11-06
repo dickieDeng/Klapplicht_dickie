@@ -726,15 +726,31 @@ containing a value of this type.
         public static final int dimming_ctrl=0x7f050002;
         public static final int direction_ctrl=0x7f050003;
         public static final int exit_btn=0x7f050004;
-        public static final int headset_path=0x7f050005;
-        public static final int menu_scan=0x7f050006;
-        public static final int menu_stop=0x7f050007;
-        public static final int micphone_path=0x7f050008;
-        public static final int unknown_device=0x7f050009;
+        public static final int firmware_version=0x7f050005;
+        public static final int headset_path=0x7f050006;
+        public static final int klapplicht_control=0x7f050007;
+        public static final int led_work_time=0x7f050008;
+        public static final int manufacture_date=0x7f050009;
+        public static final int menu_scan=0x7f05000a;
+        public static final int menu_stop=0x7f05000b;
+        public static final int micphone_path=0x7f05000c;
+        public static final int serial_number=0x7f05000d;
+        public static final int set_ble_name=0x7f05000e;
+        public static final int temp_monitor=0x7f05000f;
+        public static final int unknown_device=0x7f050010;
     }
     public static final class style {
         public static final int AcBar_titleStyle=0x7f060000;
+        /** 
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        
+         */
         public static final int AppBaseTheme=0x7f060001;
+        /**  All customizations that are NOT specific to a particular API-level can go here. 
+         */
         public static final int AppTheme=0x7f060002;
         public static final int ButtonBlue=0x7f060003;
         public static final int ButtonStyle=0x7f060004;

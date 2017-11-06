@@ -3,6 +3,7 @@
     <string name="app_name">Klapplicht</string>
     <string name="micphone_path">Micphone</string>
     <string name="headset_path">Headset</string>
+    <string name="klapplicht_control">Klapplicht controller</string>
     <string name="dimming_ctrl">Dimming control</string>
     <string name="direction_ctrl">Orientation control</string>
     <string name="exit_btn">Exit</string>
@@ -10,4 +11,10 @@
     <string name="menu_scan">Scan</string>
     <string name="menu_stop">Stop</string>
     <string name="unknown_device">Unknown device</string>
+    <string name="set_ble_name">Set device name</string>
+    <string name="temp_monitor">Temperature monitor</string>
+    <string name="led_work_time">LED work time</string>
+    <string name="manufacture_date">Manufacture date</string>
+    <string name="serial_number">Serial number</string>
+    <string name="firmware_version">Firmware version</string>
 </resources>

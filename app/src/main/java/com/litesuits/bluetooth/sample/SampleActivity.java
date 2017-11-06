@@ -1,5 +1,6 @@
 package com.litesuits.bluetooth.sample;
 
+import android.app.ActionBar;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -47,7 +48,9 @@ import com.litesuits.bluetooth.utils.BluetoothUtil;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import static com.litesuits.bluetooth.sample.BleRxDataStruct.*;
 
@@ -110,7 +113,29 @@ public class SampleActivity extends Activity {
     private Toast mToast;
     private ProgressDialog waitingDialog = null;
 
-    private int sendCount = 0;
+    /* light temperature define,1st data: temperature, 2nd data: AD value */
+    private final int[][] ledTemperature = {
+            {10,2632},{11,2595},{12,2556},{13,2517},{14,2478},
+            {15,2438},{16,2399},{17,2359},{18,2314},{19,2281},
+            {20,2241},{21,2203},{22,2163},{23,2123},{24,2085},
+            {25,2048},{26,2008},{27,1969},{28,1932},{29,1894},
+            {30,1856},{31,1819},{32,1783},{33,1747},{34,1711},
+            {35,1675},{36,1640},{37,1607},{38,1572},{39,1539},
+            {40,1506},{41,1473},{42,1441},{43,1410},{44,1377},
+            {45,1346},{46,1316},{47,1288},{48,1258},{49,1228},
+            {50,1202},{51,1174},{52,1146},{53,1120},{54,1094},
+            {55,1067},{56,1042},{57,1017},{58,994},{59,970},
+            {60,947},{61,924},{62,902},{63,882},{64,860},
+            {65,839},{66,821},{67,800},{68,781},{69,762},
+            {70,743},{71,727},{72,709},{73,693},{74,676},
+            {75,659},{76,644},{77,630},{78,615},{79,600},
+            {80,585},{81,570},{82,558},{83,546},{84,529},
+            {85,517},{86,505},{87,496},{88,482},{89,470},
+            {90,460},{91,451},{92,438},{93,428},{94,418},
+            {95,408},{96,398},{97,392},{98,382},{99,372},
+            {100,364}
+    };
+
     @Override
     protected void onDestroy() {
         liteBluetooth = null;
@@ -727,19 +752,18 @@ public class SampleActivity extends Activity {
      * read RSSI of device
      */
     public void readRssiOfDevice() {
-        liteBluetooth.newBleConnector()
-                     .readRemoteRssi(new BleRssiCallback() {
-                         @Override
-                         public void onSuccess(int rssi) {
-                             Log.i("dickie", "Read Success, rssi: " + rssi);
-                         }
+        liteBluetooth.newBleConnector().readRemoteRssi(new BleRssiCallback() {
+            @Override
+            public void onSuccess(int rssi) {
+                Log.i("dickie", "Read Success, rssi: " + rssi);
+            }
 
-                         @Override
-                         public void onFailure(BleException exception) {
-                             Log.i("dickie", "Read failure : " + exception);
-                             bleExceptionHandler.handleException(exception);
-                         }
-                     });
+            @Override
+            public void onFailure(BleException exception) {
+                Log.i("dickie", "Read failure : " + exception);
+                bleExceptionHandler.handleException(exception);
+            }
+        });
     }
 
     public void dialogShow(String msg) {
@@ -812,6 +836,39 @@ public class SampleActivity extends Activity {
                 case TFMI_LED_CONTROL_REQ:
                     break;
                 case TFMI_READ_TEMP_CURR_AD_REQ:
+                    /*
+                    * data[3]=STEP_H; data[4]=STEP_L;
+                    * data[5]=DC_H;   data[6]=DC_L;
+                    * data[7]=LED_H;  data[8]=LED_L;
+                    */
+                    if (cmdLength == 0x06){
+                        int tempAD;
+                        /* Calc STEP motor sensor voltage */
+                        tempAD = data[3] * 256 + data[4];
+                        float voltage = (tempAD * 3300) / 4096;
+                        tempString = "Step motor's voltage: " + String.valueOf(voltage) + "mV\n";
+                        /* Calc DC motor sensor voltage */
+                        tempAD = data[5] * 256 + data[6];
+                        voltage = (tempAD * 3300) / 4096;
+                        tempString = tempString + "DC motor's voltage: " + String.valueOf(voltage) + "mV\n";
+                        /* Calc light sensor temperature */
+                        int i = 0;
+                        tempAD = data[7] * 256 + data[8];
+                        for (i = 0; i < ledTemperature.length; i++) {
+                            if (tempAD >= ledTemperature[i][1]){
+                                if(i == 0){
+                                    tempString = tempString + "LED Temperature < " + String.valueOf(ledTemperature[i][0]) + "°C";
+                                }else {
+                                    tempString = tempString + "LED Temperature: " + String.valueOf(ledTemperature[i][0]) + "°C";
+                                }
+                                break;
+                            }
+                        }
+                        if (i == ledTemperature.length){
+                            tempString = tempString + "LED Temperature > " + String.valueOf(ledTemperature[i-1][0]) + "°C";
+                        }
+                        tempMsg.what = HANDLER_MSG_ID_MOTOR_LED_AD;
+                    }
                     break;
                 case TFMI_READ_AD_THRESHOLD_REQ:
                     break;
@@ -870,6 +927,9 @@ public class SampleActivity extends Activity {
                 case HANDLER_MSG_ID_WORK_TIME:
                     showProductInfoDialog("Light work time",msg.obj.toString());
                     break;
+                case HANDLER_MSG_ID_MOTOR_LED_AD:
+                    showProductInfoDialog("Motor and Light information",msg.obj.toString());
+                    break;
                 case HANDLER_MSG_ID_MOTOR_LOCATION:
                 case HANDLER_MSG_ID_UNDEF_MSG:
                     showProductInfoDialog("System information",msg.obj.toString());
@@ -887,8 +947,7 @@ public class SampleActivity extends Activity {
                        .writeCharacteristic(byteBuff, new BleCharactCallback() {
             @Override
             public void onSuccess(BluetoothGattCharacteristic characteristic) {
-                sendCount++;
-                Log.i("dickie", "TF Write Success, DATA: " + Arrays.toString(characteristic.getValue()) + ", counter = " + sendCount);
+                Log.i("dickie", "TF Write Success, DATA: " + Arrays.toString(characteristic.getValue()));
             }
             @Override
             public void onFailure(BleException exception) {
@@ -1053,8 +1112,7 @@ public class SampleActivity extends Activity {
     }
     // display audio processing dialog for dealwith audio signal
     public void showAudioProcessDialog(){
-        final AlertDialog.Builder audioProcessDialog =
-                new AlertDialog.Builder(SampleActivity.this);
+        final AlertDialog.Builder audioProcessDialog = new AlertDialog.Builder(SampleActivity.this);
         final View dialogView = LayoutInflater.from(SampleActivity.this).inflate(R.layout.audio_process,null);
         audioProcessDialog.setTitle("Audio process");
         audioProcessDialog.setView(dialogView);
@@ -1074,10 +1132,13 @@ public class SampleActivity extends Activity {
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 if (isChecked == true){
                     Log.i("dickie","Left channel enable");
+                    BleWriteCommand2Device(BleRxDataStruct.SIGMA_SIGNAL_LEFT_CH_ENABLE_CMD);
                 }
                 else{
                     Log.i("dickie","Left channel disable");
+                    BleWriteCommand2Device(BleRxDataStruct.SIGMA_SIGNAL_LEFT_CH_DISABLE_CMD);
                 }
+
             }
         });
         // Enable / Disable right channel
@@ -1087,9 +1148,11 @@ public class SampleActivity extends Activity {
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 if (isChecked == true){
                     Log.i("dickie","Right channel enable");
+                    BleWriteCommand2Device(BleRxDataStruct.SIGMA_SIGNAL_RIGHT_CH_ENABLE_CMD);
                 }
                 else{
                     Log.i("dickie","Right channel enable");
+                    BleWriteCommand2Device(BleRxDataStruct.SIGMA_SIGNAL_RIGHT_CH_DISABLE_CMD);
                 }
             }
         });
@@ -1098,16 +1161,15 @@ public class SampleActivity extends Activity {
         radioGroupDsp.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup group, @IdRes int checkedId) {
-                byte path;
+
                 if (checkedId == R.id.high_end_dsp){
                     Log.i("dickie","high end dsp program");
-                    path = 0;
+                    BleWriteCommand2Device(BleRxDataStruct.SIGMA_SIGNAL_DSP_PROG_HIGH_END_CMD);
                 }
                 else /* if (checkedId == R.id.mainstream_dsp) */{
                     Log.i("dickie","mainstream dsp program");
-                    path = 1;
+                    BleWriteCommand2Device(BleRxDataStruct.SIGMA_SIGNAL_DSP_PROG_MAIN_STREAM_CMD);
                 }
-//                BleWriteCommand2Device(new byte[]{BLE_CMD_START_BYTE, TFMI_SIGMA_AUDIO_IN_CH_SELECT_REQ, 1, path, 5});
             }
         });
     }
@@ -1133,4 +1195,4 @@ public class SampleActivity extends Activity {
             }
         });
     }
-};
+}

@@ -13,6 +13,7 @@ public class BleRxDataStruct {
     public static final int HANDLER_MSG_ID_FIREWARE_VER = HANDLER_MSG_ID_UNDEF_MSG + 4;
     public static final int HANDLER_MSG_ID_WORK_TIME = HANDLER_MSG_ID_UNDEF_MSG + 5;
     public static final int HANDLER_MSG_ID_MOTOR_LOCATION = HANDLER_MSG_ID_UNDEF_MSG + 6;
+    public static final int HANDLER_MSG_ID_MOTOR_LED_AD = HANDLER_MSG_ID_UNDEF_MSG + 7;
 
 
     public static final int BLE_RX_BUF_DATA_LEN = 200;
@@ -51,6 +52,10 @@ public class BleRxDataStruct {
     public static final byte TFMI_SIGMA_CARRY_FREQ_REQ = 0x19;
 
     public static final byte TFMI_ATE_CHECK_MARK_REQ = 0x20;
+
+    public static final byte TFMI_SIGMA_CONF_LCH_RCH_REQ = 0x21;			/* Enable/Disable left/right channel  */
+    public static final byte TFMI_SIGMA_CONF_DSP_PROGRAM_REQ = 0x22;		/* Toggle high-end/mainstream DSP program */
+
 
     public static final byte TFMI_TEST_MODE_ACK_RESP = (byte) 0x80;
 
@@ -113,6 +118,18 @@ public class BleRxDataStruct {
     public static final byte MOTOR_90_DEGREE_LOCATION = 0x51;
     public static final byte MOTOR_MIDDLE_LOCATION = 0x52;
     public static final byte MOTOR_ERROR_LOCATION = 0x53;
+
+    public static final byte SIGMA_SIGNAL_CH_LEFT = 0x00;
+    public static final byte SIGMA_SIGNAL_CH_RIGHT = 0x01;
+    public static final byte[] SIGMA_SIGNAL_LEFT_CH_ENABLE_CMD = {BLE_CMD_START_BYTE,TFMI_SIGMA_CONF_LCH_RCH_REQ,2,SIGMA_SIGNAL_CH_LEFT,1,6};
+    public static final byte[] SIGMA_SIGNAL_LEFT_CH_DISABLE_CMD = {BLE_CMD_START_BYTE,TFMI_SIGMA_CONF_LCH_RCH_REQ,2,SIGMA_SIGNAL_CH_LEFT,0,6};
+    public static final byte[] SIGMA_SIGNAL_RIGHT_CH_ENABLE_CMD = {BLE_CMD_START_BYTE,TFMI_SIGMA_CONF_LCH_RCH_REQ,2,SIGMA_SIGNAL_CH_RIGHT,1,6};
+    public static final byte[] SIGMA_SIGNAL_RIGHT_CH_DISABLE_CMD = {BLE_CMD_START_BYTE,TFMI_SIGMA_CONF_LCH_RCH_REQ,2,SIGMA_SIGNAL_CH_RIGHT,0,6};
+
+    public static final byte SIGMA_SIGNAL_DSP_PROG_MS = 0x00;		// Mainstream dsp program
+    public static final byte SIGMA_SIGNAL_DSP_PROG_HE = 0x01;
+    public static final byte[] SIGMA_SIGNAL_DSP_PROG_MAIN_STREAM_CMD = {BLE_CMD_START_BYTE,TFMI_SIGMA_CONF_DSP_PROGRAM_REQ,1,SIGMA_SIGNAL_DSP_PROG_MS,5};
+    public static final byte[] SIGMA_SIGNAL_DSP_PROG_HIGH_END_CMD = {BLE_CMD_START_BYTE,TFMI_SIGMA_CONF_DSP_PROGRAM_REQ,1,SIGMA_SIGNAL_DSP_PROG_HE,5};
 
     /* DC Motor control command define */
     // 1.control DC motor run turn left direction

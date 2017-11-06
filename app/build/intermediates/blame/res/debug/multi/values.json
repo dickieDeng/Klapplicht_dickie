@@ -917,14 +917,7 @@
                     "endOffset": 11814
                 },
                 "from": {
-                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 47,
-                        "endOffset": 98
-                    }
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -980,20 +973,27 @@
                     "startLine": 131,
                     "startColumn": 4,
                     "startOffset": 12025,
-                    "endColumn": 48,
-                    "endOffset": 12069
+                    "endColumn": 61,
+                    "endOffset": 12082
                 },
                 "from": {
-                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 61,
+                        "endOffset": 971
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 12074,
-                    "endColumn": 42,
-                    "endOffset": 12112
+                    "startOffset": 12087,
+                    "endColumn": 48,
+                    "endOffset": 12131
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
@@ -1003,33 +1003,66 @@
                 "to": {
                     "startLine": 133,
                     "startColumn": 4,
-                    "startOffset": 12117,
-                    "endColumn": 42,
-                    "endOffset": 12155
+                    "startOffset": 12136,
+                    "endColumn": 68,
+                    "endOffset": 12200
                 },
                 "from": {
-                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 68,
+                        "endOffset": 267
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 134,
                     "startColumn": 4,
-                    "startOffset": 12160,
-                    "endColumn": 50,
-                    "endOffset": 12206
+                    "startOffset": 12205,
+                    "endColumn": 55,
+                    "endOffset": 12256
                 },
                 "from": {
-                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 55,
+                        "endOffset": 791
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 12211,
-                    "endColumn": 57,
-                    "endOffset": 12264
+                    "startOffset": 12261,
+                    "endColumn": 61,
+                    "endOffset": 12318
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 61,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 12323,
+                    "endColumn": 42,
+                    "endOffset": 12361
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
@@ -1037,38 +1070,105 @@
             },
             {
                 "to": {
-                    "startLine": 136,
+                    "startLine": 137,
                     "startColumn": 4,
-                    "startOffset": 12269,
-                    "endLine": 138,
-                    "endColumn": 12,
-                    "endOffset": 12363
+                    "startOffset": 12366,
+                    "endColumn": 42,
+                    "endOffset": 12404
                 },
                 "from": {
-                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 12409,
+                    "endColumn": 50,
+                    "endOffset": 12455
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 12368,
-                    "endLine": 141,
-                    "endColumn": 12,
-                    "endOffset": 12446
+                    "startOffset": 12460,
+                    "endColumn": 55,
+                    "endOffset": 12511
                 },
                 "from": {
-                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 858,
+                        "endColumn": 55,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 12516,
+                    "endColumn": 56,
+                    "endOffset": 12568
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 56,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 12573,
+                    "endColumn": 60,
+                    "endOffset": 12629
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 60,
+                        "endOffset": 735
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 12451,
-                    "endLine": 149,
+                    "startOffset": 12634,
+                    "endColumn": 57,
+                    "endOffset": 12687
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 12692,
+                    "endLine": 145,
                     "endColumn": 12,
-                    "endOffset": 12872
+                    "endOffset": 12786
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
@@ -1076,12 +1176,54 @@
             },
             {
                 "to": {
-                    "startLine": 150,
+                    "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 12877,
-                    "endLine": 156,
+                    "startOffset": 12791,
+                    "endLine": 153,
                     "endColumn": 12,
-                    "endOffset": 13250
+                    "endOffset": 13078
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 13083,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 13592
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 13597,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 13970
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
@@ -1089,12 +1231,12 @@
             },
             {
                 "to": {
-                    "startLine": 157,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 13255,
-                    "endLine": 164,
+                    "startOffset": 13975,
+                    "endLine": 176,
                     "endColumn": 12,
-                    "endOffset": 13650
+                    "endOffset": 14370
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
@@ -1102,12 +1244,12 @@
             },
             {
                 "to": {
-                    "startLine": 165,
+                    "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 13655,
-                    "endLine": 173,
+                    "startOffset": 14375,
+                    "endLine": 185,
                     "endColumn": 12,
-                    "endOffset": 14114
+                    "endOffset": 14834
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
@@ -1115,12 +1257,12 @@
             },
             {
                 "to": {
-                    "startLine": 174,
+                    "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 14119,
-                    "endLine": 181,
+                    "startOffset": 14839,
+                    "endLine": 193,
                     "endColumn": 12,
-                    "endOffset": 14501
+                    "endOffset": 15221
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
@@ -1128,12 +1270,12 @@
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14506,
-                    "endLine": 188,
+                    "startOffset": 15226,
+                    "endLine": 200,
                     "endColumn": 12,
-                    "endOffset": 14860
+                    "endOffset": 15580
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
@@ -1141,12 +1283,33 @@
             },
             {
                 "to": {
-                    "startLine": 189,
+                    "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 14865,
-                    "endLine": 192,
-                    "endColumn": 8,
-                    "endOffset": 15019
+                    "startOffset": 15585,
+                    "endLine": 204,
+                    "endColumn": 12,
+                    "endOffset": 15747
+                },
+                "from": {
+                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1123,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 15752,
+                    "endLine": 208,
+                    "endColumn": 12,
+                    "endOffset": 15931
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
@@ -1154,12 +1317,12 @@
             },
             {
                 "to": {
-                    "startLine": 193,
+                    "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 15024,
-                    "endLine": 196,
+                    "startOffset": 15936,
+                    "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 15203
+                    "endOffset": 16093
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
@@ -1167,25 +1330,12 @@
             },
             {
                 "to": {
-                    "startLine": 197,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15208,
-                    "endLine": 199,
+                    "startOffset": 16098,
+                    "endLine": 215,
                     "endColumn": 12,
-                    "endOffset": 15365
-                },
-                "from": {
-                    "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 200,
-                    "startColumn": 4,
-                    "startOffset": 15370,
-                    "endLine": 203,
-                    "endColumn": 12,
-                    "endOffset": 15606
+                    "endOffset": 16334
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\values\\values.xml"
@@ -1193,12 +1343,12 @@
             },
             {
                 "to": {
-                    "startLine": 204,
+                    "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 15611,
-                    "endLine": 212,
+                    "startOffset": 16339,
+                    "endLine": 224,
                     "endColumn": 12,
-                    "endOffset": 16186
+                    "endOffset": 16914
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\build\\intermediates\\exploded-aar\\org.adw.library\\discrete-seekbar\\1.0.1\\res\\values\\values.xml"
@@ -1206,12 +1356,12 @@
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 16191,
-                    "endLine": 217,
+                    "startOffset": 16919,
+                    "endLine": 229,
                     "endColumn": 12,
-                    "endOffset": 16431
+                    "endOffset": 17159
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
@@ -1219,12 +1369,12 @@
             },
             {
                 "to": {
-                    "startLine": 218,
+                    "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 16436,
-                    "endLine": 221,
+                    "startOffset": 17164,
+                    "endLine": 233,
                     "endColumn": 12,
-                    "endOffset": 16670
+                    "endOffset": 17398
                 },
                 "from": {
                     "file": "E:\\sourcecode\\as_workspaces\\bluetooth_study\\sample\\app\\src\\main\\res\\values\\styles.xml"
